@@ -44,7 +44,7 @@ Implement visual regression testing using a tool of your choice:
 **Requirements:**
 - Must run in CI/CD pipeline
 - Must test at least 2 different viewports
-- Must test the main product catalog page
+- Must test the application interactions
 - Document your tool choice and why
 
 ### 3. Performance Monitoring (Required)
